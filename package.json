@@ -1,6 +1,6 @@
 {
   "name": "equal-vue",
-  "version": "0.73.0",
+  "version": "0.731.0",
   "homepage": "https://quatrochan.github.io/Equal/",
   "description": "Equal is a Vue 3 UI library based on TypeScript",
   "author": {
@@ -65,8 +65,9 @@
     "eslint": "^7.20.0",
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-vue": "^7.6.0",
-    "husky": "^5.1.0",
-    "less": "^3.12.2",
+    "husky": "4",
+    "less": "^4.1.1",
+    "lint-staged": "^10.5.4",
     "prettier": "^2.2.1",
     "stylelint": "^13.11.0",
     "stylelint-config-recommended": "^3.0.0",
